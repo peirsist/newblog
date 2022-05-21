@@ -29,7 +29,8 @@ module.exports = {
         '',
         'theme',
         'plugin',
-        'api'
+        'api',
+        '计算机组成原理'
       ]
     },  
     type: 'blog',
@@ -94,6 +95,6 @@ module.exports = {
     // }
   },
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
   }
 }  
